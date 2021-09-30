@@ -12,4 +12,4 @@ sudo update-alternatives --set java /usr/lib/jvm/java-se-7u75-ri/bin/java && \
 sudo update-alternatives --set javac /usr/lib/jvm/java-se-7u75-ri/bin/javac && \
 update-alternatives --list java && \
 update-alternatives --list javac && \
-java -version && \ 
+java -version
